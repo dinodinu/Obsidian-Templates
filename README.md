@@ -32,17 +32,17 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 5. [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
 ### 11 Optional Obsidian Plugin
-- [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
-- [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
-- [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
-- [Charts](https://github.com/phibr0/obsidian-charts) - Easily create interactive charts for your notes. 
-- [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
-- [Homepage](https://github.com/mirnovov/obsidian-homepage) - Use any note, canvas, or workspace as a homepage
-- [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) - Allows to rename the image if you want images to be named and organized clearly.
-- [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
-- [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
-- [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
-- [View Count](https://github.com/decaf-dev/obsidian-view-count) - Tracks the view count for each file in your vault.
+1. [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
+2. [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
+3. [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
+4. [Charts](https://github.com/phibr0/obsidian-charts) - Easily create interactive charts for your notes. 
+5. [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
+6. [Homepage](https://github.com/mirnovov/obsidian-homepage) - Use any note, canvas, or workspace as a homepage
+7. [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) - Allows to rename the image if you want images to be named and organized clearly.
+8. [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
+9. [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
+10. [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
+11. [View Count](https://github.com/decaf-dev/obsidian-view-count) - Tracks the view count for each file in your vault.
   
 ## Basic Template Structure
 <img src="/Visuals/IMG_0934.png" width="500" />
