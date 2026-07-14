@@ -53,7 +53,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 You first may have a look at my note examples created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
 
 ### 1_Fleeting Notes
-- Fleeting Templates
+- [Fleeting Templates](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/1_Fleeting%20Template.md) 
 
 ### 2_Literature Notes
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) + [DataView](https://github.com/blacksmithgu/obsidian-dataview)
