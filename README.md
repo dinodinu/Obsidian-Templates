@@ -25,11 +25,11 @@ Copy templates to your Obsidian template folder location to make them available 
 Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit).
 
 ### 5 Mandatory Obsidian Plugins
-- [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
-- [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages.
-- [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
-- [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
-- [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
+1. [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
+2. [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages.
+3. [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
+4. [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
+5. [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
 ### 11 Optional Obsidian Plugin
 - [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
