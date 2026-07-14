@@ -1,45 +1,30 @@
 ---
-tags:
-  - type/literature
-  - type/book
-  - theme/xyz
-aliases:
+tags: 
+- type/book
+- theme/xyz
+aliases: 
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 title: "{{title}}"
-subtitle:
-  "{ subtitle }":
-author:
-  "{ author }":
-authors:
-  "{ authors }":
-category:
-  "{ category }":
-categories:
-  "{ categories }":
-description:
-publisher:
-  "{ publisher }":
-total_page:
-  "{ totalPage }":
-cover_url:
-  "{ coverUrl }":
-cover_small_url:
-  "{ coverSmallUrl }":
-publish_date:
-  "{ publishDate }":
-isbn13:
-  "{ isbn13 }":
-isbn10:
-  "{ isbn10 }":
-link:
-  "{ link }":
-preview_link:
-  "{ preview_link }":
+subtitle: {{subtitle}}
+author: {{author}}
+authors: {{authors}}
+category: {{category}}
+categories: {{categories}}
+description: 
+publisher: {{publisher}}
+total_page: {{totalPage}}
+cover_url: {{coverUrl}}
+cover_small_url: {{coverSmallUrl}}
+publish_date: {{publishDate}}
+isbn13: {{isbn13}}
+isbn10: {{isbn10}}
+link: {{link}}
+preview_link: {{preview_link}}
 bibliography: +++ Copy and paste citation from Zotero +++
-rating:
+rating: 
 date:
-read:
+read: 
 status: undefined
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
@@ -73,13 +58,14 @@ by [[{{author}}]]
 <!-- The main content of my thoughts really -->
 - 
 
-
 ## Quotes
 <!-- Notable quotes with reference to their page or location -->
+-  
 
 ## Bibliography
 
 > `= this.bibliography`
+
 
 
 ---
