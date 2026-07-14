@@ -31,7 +31,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 4. [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
 5. [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
-### 11 Optional Obsidian Plugin
+### 10 Optional Obsidian Plugin
 1. [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
 2. [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 3. [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
@@ -42,7 +42,6 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 8. [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
 9. [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
 10. [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
-11. [View Count](https://github.com/decaf-dev/obsidian-view-count) - Tracks the view count for each file in your vault.
   
 ## Basic Template Structure
 <img src="/Visuals/IMG_0934.png" width="500" />
