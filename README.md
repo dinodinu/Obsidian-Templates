@@ -53,6 +53,9 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 ## List of Templates
 You first may have a look at my note examples created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
 
+### 1_Fleeting Notes
+- Fleeting Templates
+
 ### 2_Literature Notes
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) + [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 - [Person Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Person%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
