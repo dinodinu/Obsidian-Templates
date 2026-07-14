@@ -65,8 +65,10 @@ You first may have a look at my note examples created from these templates: [EXA
 
 ### 3_Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Note%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
-- [Prompt Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Prompt%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Observation Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Observation%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Proposition Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Proposition%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 - [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Question%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Prompt Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Prompt%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### 4_Project Notes
 - [E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count) + -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
