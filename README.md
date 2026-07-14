@@ -49,6 +49,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 <img src="/Visuals/IMG_0934.png" width="500" />
 
 ## Zettelkasten Templates
+<img src="/Visuals/templates_2026-06-14.png" width="500" />
 
 ## List of Templates
 You first may have a look at my note examples created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
