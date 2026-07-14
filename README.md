@@ -56,12 +56,12 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Fleeting Templates](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/1_Fleeting%20Template.md) 
 
 ### 2_Literature Notes
-- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) + [DataView](https://github.com/blacksmithgu/obsidian-dataview)
-- [Person Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Person%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
-- [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Quote%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
-- [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Recipe%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
-- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Term%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview) + [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
-- [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Tool%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/2_Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) + [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Person Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/2_Person%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/2_Quote%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/2_Recipe%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/2_Term%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview) + [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
+- [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/2_Tool%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### 3_Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Note%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
