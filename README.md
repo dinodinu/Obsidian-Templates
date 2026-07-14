@@ -80,6 +80,7 @@ You first may have a look at my note examples created from these templates: [EXA
 - [BuJo - Monthly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Monthly%20Log.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 - [BuJo - Weekly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Weekly%20Log.md)
 - [BuJo - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Daily%20Log.md)
+- [Exploration Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Exploration%20Template.md)
 - [Meeting Notes Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Meeting%20Notes%20Template.md)
 - [OKR Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_OKR%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 - [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Structure%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
