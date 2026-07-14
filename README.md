@@ -71,9 +71,9 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Prompt Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Prompt%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### 4_Project Notes
-- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count) + -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
-- [Comment Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Comment%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count) + -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
-- [Post Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Post%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count) + -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Comment Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Comment%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count) + -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Post Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Post%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### 5_Structures
 - [BuJo - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Future%20Log.md)
