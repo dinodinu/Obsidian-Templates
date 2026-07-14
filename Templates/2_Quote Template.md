@@ -1,32 +1,28 @@
 ---
 tags:
-  - type/structure
-  - theme/objectives
-  - type/okr
+  - type/literature
+  - type/quote
+  - theme/xyz
 aliases:
-lead: +++ Lead paragraph goes here +++
-okr: keyaction
-status: active_2024
+lead:
+quote:
+author:
+year:
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: OKR
+template_type: Quote
 template_version: "1.22"
 ---
-<!-- 
-okr: idea, wish, keyaction, keyresult, objective | annual
-template_type: OKR, Wish, Objective, Key Result, Key Action
-See "Template Help" below for using properties 
--->
 
 # {{Title}}
 
-<!--  Main idea of my thoughts -->
+<!-- Quote and author from frontmatter goes here. Also used for Dataview list of quotes. -->
 
-> [!Note]
-> `= this.lead`
+> [!QUOTE]
+>  `= this.quote`
+>  — `= this.author`
 
-<!-- Other content of my note  -->
 
 
 

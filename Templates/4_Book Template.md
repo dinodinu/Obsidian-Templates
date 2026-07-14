@@ -1,105 +1,87 @@
 ---
 tags: 
-- type/book
-- theme/xyz
-aliases: 
-lead: +++ Lead paragraph goes here +++
-visual: "![[image.jpg]]"
-title: "{{title}}"
-subtitle: {{subtitle}}
-author: {{author}}
-authors: {{authors}}
-category: {{category}}
-categories: {{categories}}
-description: 
-publisher: {{publisher}}
-total_page: {{totalPage}}
-cover_url: {{coverUrl}}
-cover_small_url: {{coverSmallUrl}}
-publish_date: {{publishDate}}
-isbn13: {{isbn13}}
-isbn10: {{isbn10}}
-link: {{link}}
-preview_link: {{preview_link}}
-bibliography: +++ Copy and paste citation from Zotero +++
-rating: 
-date:
-read: 
-status: undefined
+  - type/project
+  - type/chapter 
+  - theme/xyz
+  - target/ebook 
+aliases:
+visual: "![[IMAGE.png]]"
+title_short: "e1"
+rule: +++ Add simple rule here +++
+chapter: "0.0"
+version: "0.1"
+book_version: 0.19
+status: draft
+word_count: 0
+bar: <progress max=100 value=0></progress><br>0% first ideas
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
+published:
+views: 0
+feedbacks: 0
 template_type: Book
-template_version: "1.21"
+template_version: "1.30"
 ---
-<!-- 
-rating: ⭐️⭐️⭐️    // 1 to 3 stars
-date: 2023             // when started reading
-read: 2023             // when finished reading
-status: undefined, backlog, to read, reading, completed, stopped
-*** See "Template Help" below for using properties ***
+<!--  
+status: draft, final, published, revised 
+bar: <progress max=100 value=0></progress><br>0% first ideas 
+	10% takeaway promised, 20% used for teaching, 30% value offered  
+	40% front-loaded value, 50% high value-per-page, 60% value tested
+	70% feedback received, 80% value improved, 90% finally polished, 100% recommended 
 -->
 
-![cover|150]({{coverUrl}})
+# {{Title}} - e1
+<!--  Clear and descriptive title -->
 
-# {{Title}}
+```dataviewjs 
+var progress_bar = (dv.current().bar);
+var note_status = (dv.current().status);
+dv.paragraph(progress_bar + ', ' + note_status);
+```
 
-by [[{{author}}]]
+<!-- My sketchnote if available -->
+```dataviewjs 
+dv.paragraph(dv.current().visual);
+```
 
-<!-- No more than a couple paragraphs summarizing this BOOK -->
+<!-- Motivational quote if available -->
 
-> [!summary]
-{{description}}
+<!-- Main content of this chapter -->
 
-## Table of Contents
-<!--Link to table of contents (TOC) -->
-- 
+<!-- Simple rule to remember  -->
+```dataviewjs 
+dv.paragraph('> ' + dv.current().rule);
+```
 
-## Notes
-<!-- The main content of my thoughts really -->
-- 
+<!-- References in footnote  -->
 
 
-## Quotes
-<!-- Notable quotes with reference to their page or location -->
-
-## Bibliography
-
-> `= this.bibliography`
 
 ---
 # Back Matter
 
-**Source**
-<!-- Always keep a link to the source- --> 
+**_Sources_**
+<!-- always keep a link to the [[source]] --> 
 - based_on::
 
-**References**
-<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+**_References_**
+<!-- see: [[permanent note]] because <reason> -->
 - see:: 
 
-**Terms**
-<!-- Links to definition pages. -->
-- 
+**_Context_**
+<!-- the scene at capture — see Subjective Context Principle. Optional but preferred. -->
+- scene:: 
 
-**Target**
-<!-- Link to project note or externaly published content. -->
+**_Terms_**
+<!-- optional link to [[literature note]] with term & definition. -->
+- term::
+
+**_Targets_**
+<!-- optional link to [[project note]] or published content. -->
 - used_in::
 
----
-**Tasks**
-<!-- What remains to be done with this note? --> 
-- 
+**_Template Help_**
+<!-- link to external help pages on GitHub. -->
+- [GitHub - Obsidian-Templates for Zettelkasten.](https://github.com/groepl/Obsidian-Templates)
 
-**Questions**
-<!-- What remains for you to consider? --> 
-- 
-
----
-**Template Help**
-<!-- Links to external help pages on GitHub. -->
-- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
-- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
-- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
-- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
-- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
-- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
+<!--  © 2022-2026 by Edmund Gröpl under CC BY-NC-SA 4.0 -->

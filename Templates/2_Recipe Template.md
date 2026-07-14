@@ -1,32 +1,29 @@
 ---
 tags:
-  - type/structure
-  - theme/objectives
-  - type/okr
+  - type/literature
+  - type/recipe
+  - theme/cooking
 aliases:
 lead: +++ Lead paragraph goes here +++
-okr: keyaction
-status: active_2024
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: OKR
-template_version: "1.22"
+template_type: Receipe
+template_version: "1.17"
 ---
-<!-- 
-okr: idea, wish, keyaction, keyresult, objective | annual
-template_type: OKR, Wish, Objective, Key Result, Key Action
-See "Template Help" below for using properties 
--->
+<!--  See "Template Help" below for using properties -->
 
 # {{Title}}
 
-<!--  Main idea of my thoughts -->
+<!-- Main content of my thoughts really -->
 
 > [!Note]
 > `= this.lead`
 
-<!-- Other content of my note  -->
+## Incredience
+
+
+## Preparation
 
 
 

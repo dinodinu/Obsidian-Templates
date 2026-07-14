@@ -1,35 +1,40 @@
 ---
 tags:
-  - type/structure
-  - theme/objectives
-  - type/okr
-aliases:
-lead: +++ Lead paragraph goes here +++
-okr: keyaction
-status: active_2024
-visual: "![[image.jpg]]"
+  - type/permanent
+  - type/observation
+  - theme/xyz
+lead: +++ lead paragraph goes here +++
+visual: "![[image.jpg|300]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: OKR
-template_version: "1.22"
+template_type: Observation
+template_version: "1.02"
 ---
-<!-- 
-okr: idea, wish, keyaction, keyresult, objective | annual
-template_type: OKR, Wish, Objective, Key Result, Key Action
-See "Template Help" below for using properties 
--->
+<!--  See "Template Help" below for using properties -->
 
 # {{Title}}
+<!--  Clear and descriptive title -->
 
-<!--  Main idea of my thoughts -->
+<!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
+`= this.visual`
+<small>_Zoom: [[]] | Edit: [[]]_</small>
 
-> [!Note]
+<!--  Most essential idea from "lead"-key  in properties section -->
+> [!Observation]
 > `= this.lead`
 
-<!-- Other content of my note  -->
+---
+##### Details
+<!-- elaboration, evidence, worked examples -->
+- 
 
+##### Questions
+<!-- open, unresolved, provoked by this note — epistemic, not operational -->
+- 
 
-
+##### Tasks
+<!-- operational follow-ups only -->
+- 
 
 ---
 # Back Matter

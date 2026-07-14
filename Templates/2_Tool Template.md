@@ -1,33 +1,36 @@
 ---
 tags:
-  - type/structure
-  - theme/objectives
-  - type/okr
+  - type/literature
+  - type/tool
+  - theme/xyz
 aliases:
-lead: +++ Lead paragraph goes here +++
-okr: keyaction
-status: active_2024
+lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: OKR
-template_version: "1.22"
+template_type: Tool
+template_version: "1.26"
 ---
-<!-- 
-okr: idea, wish, keyaction, keyresult, objective | annual
-template_type: OKR, Wish, Objective, Key Result, Key Action
-See "Template Help" below for using properties 
--->
 
 # {{Title}}
 
-<!--  Main idea of my thoughts -->
+<!-- Short description of TOOL goes here -->
 
 > [!Note]
 > `= this.lead`
 
-<!-- Other content of my note  -->
 
+## Usage
+<!-- Why I am using this tool? The use case -->
+- 
+
+
+## Pros
+-  
+
+
+## Cons
+- 
 
 
 

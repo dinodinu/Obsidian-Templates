@@ -1,22 +1,21 @@
 ---
-tags: 
-- type/structure 
-- structure/list 
-- structure/bujo
-aliases: 
+tags:
+  - type/structure
+  - structure/list
+  - structure/bujo
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 banner: "![[banner_bujo.JPG]]"
 banner_x: 0.5
 template_type: BuJo Future
-template_version: "1.11"
+template_version: "1.154"
 ---
 <!--  See "Template Help" below for using properties -->
 
 # Future Log {{Title}}
 
 <!-- Main STRUCTURE of my content -->
-[Future Logs](Future%20Logs.md) | [[2024]] | [Ideas List](Ideas%20List.md) | [Vision Board 2024](Vision%20Board%202024.md)
+[Future Logs](Future%20Logs.md) | [[2025]] | [Ideas List](Ideas%20List.md) | [Vision Board 2024](Vision%20Board%202024.md)
 ___
 
 **Objectives & Key Results | 3-4 & 1-4**
@@ -59,33 +58,32 @@ ___
 **December**
 
 
-___
+
+---
 # Back Matter
-**Source**
-<!-- Always keep a link to the source- --> 
-- 
 
-**Tasks**
-<!-- What remains to be done with this note? --> 
-- 
+**_Sources_**
+<!-- always keep a link to the [[source]] --> 
+- based_on::
 
-**Questions**
-<!-- What remains for you to consider? --> 
-- 
+**_References_**
+<!-- see: [[permanent note]] because <reason> -->
+- see:: 
 
-**Terms**
-<!-- Links to definition pages. -->
-- 
+**_Context_**
+<!-- the scene at capture — see Subjective Context Principle. Optional but preferred. -->
+- scene:: 
 
-**References**
-<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see::
+**_Terms_**
+<!-- optional link to [[literature note]] with term & definition. -->
+- term::
 
-**Template Help**
-<!-- Links to external help pages on GitHub. -->
-- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
-- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
-- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
-- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
-- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
-- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
+**_Targets_**
+<!-- optional link to [[project note]] or published content. -->
+- used_in::
+
+**_Template Help_**
+<!-- link to external help pages on GitHub. -->
+- [GitHub - Obsidian-Templates for Zettelkasten.](https://github.com/groepl/Obsidian-Templates)
+
+<!--  © 2022-2026 by Edmund Gröpl under CC BY-NC-SA 4.0 -->

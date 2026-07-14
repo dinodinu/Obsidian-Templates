@@ -1,34 +1,21 @@
----
-tags:
-  - type/structure
-  - theme/objectives
-  - type/okr
-aliases:
-lead: +++ Lead paragraph goes here +++
-okr: keyaction
-status: active_2024
-visual: "![[image.jpg]]"
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: OKR
-template_version: "1.22"
----
-<!-- 
-okr: idea, wish, keyaction, keyresult, objective | annual
-template_type: OKR, Wish, Objective, Key Result, Key Action
-See "Template Help" below for using properties 
--->
-
-# {{Title}}
-
-<!--  Main idea of my thoughts -->
-
-> [!Note]
-> `= this.lead`
-
-<!-- Other content of my note  -->
 
 
+
+**Tasks**
+<!-- What remains to be done do get the final version? --> 
+
+- [ ] Prepare final version 
+- [ ] Publish on GitHub
+- [ ] Review and revise
+
+**Feedback**
+<!-- What remains for you to consider in the draft version? --> 
+**0.14**
+- 
+
+**Table of Content**
+<!-- Links to chapters from e-book -->
+- [004 - Contents](004%20-%20Contents.md)
 
 
 ---

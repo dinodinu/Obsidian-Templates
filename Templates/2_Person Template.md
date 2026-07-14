@@ -1,34 +1,44 @@
 ---
 tags:
-  - type/structure
-  - theme/objectives
-  - type/okr
+  - type/literature
+  - type/person
+  - role/xyz
+  - theme/xyz
 aliases:
-lead: +++ Lead paragraph goes here +++
-okr: keyaction
-status: active_2024
+birth:
+death:
+bio_short:
+lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: OKR
-template_version: "1.22"
+template_type: Person
+template_version: "1.25"
 ---
-<!-- 
-okr: idea, wish, keyaction, keyresult, objective | annual
-template_type: OKR, Wish, Objective, Key Result, Key Action
-See "Template Help" below for using properties 
--->
+<!--  See "Template Help" below for using properties -->
 
 # {{Title}}
 
-<!--  Main idea of my thoughts -->
+##  Bio
+<!-- Short biography of the AUTHOR -->
 
-> [!Note]
-> `= this.lead`
-
-<!-- Other content of my note  -->
+> [!Bio short]
+> `= this.bio_short`
 
 
+
+## Books
+<!-- Only most important I‘ve read -->
+- 
+
+## Notes
+<!-- The main content of my thoughts really -->
+- 
+
+
+## Quotes
+<!-- Notable quotes with reference to their page or location -->
+- 
 
 
 ---

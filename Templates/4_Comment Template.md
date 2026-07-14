@@ -1,40 +1,64 @@
 ---
 tags:
-  - type/permanent
-  - type/note
+  - type/project
+  - type/post
   - theme/xyz
-lead: +++ lead paragraph goes here +++
-visual: "![[image.jpg|300]]"
+  - target/linkedin
+  - target/forumobsidian
+  - target/forumzettelkasten
+  - target/reddit
+aliases:
+visual: "![[image.jpg]]"
+lead: +++ Lead paragraph goes here +++
+published:
+views: 0
+feedbacks: 0
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: Note
-template_version: "1.41"
+template_type: Comment
+template_version: "1.35"
 ---
-<!--  See "Template Help" below for using properties -->
 
-# {{Title}}
+# Comment - {{Title}}
 <!--  Clear and descriptive title -->
 
-<!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
-`= this.visual`
+<!-- My sketchnote if available -->
+```dataviewjs 
+dv.paragraph(dv.current().visual);
+```
 <small>_Zoom: [[]] | Edit: [[]]_</small>
 
-<!--  Most essential idea from "lead"-key  in properties section -->
-> [!Note]
-> `= this.lead`
+<!-- Main content of this story -->
+### Post
+
+
+### Reply
+
+
+**Feedback**
+<!-- Any critique, ideas or questions from social media or other audience? --> 
+- 
+
+**Tasks**
+<!-- What remains to be done do get the final version? --> 
+- 
+
+**Questions**
+<!-- What remains for you to consider in the draft version? --> 
+- 
 
 ---
-##### Details
-<!-- elaboration, evidence, worked examples -->
-- 
+**Latest Posts**
+<!-- Links to chapters from e-book -->
 
-##### Questions
-<!-- open, unresolved, provoked by this note — epistemic, not operational -->
-- 
+```dataview
+TABLE 
+	file.cday AS "Date"
+FROM #target/linkedin 
+SORT file.cday DESC
+LIMIT 10
+```
 
-##### Tasks
-<!-- operational follow-ups only -->
-- 
 
 ---
 # Back Matter

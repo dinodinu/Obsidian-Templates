@@ -1,12 +1,11 @@
 ---
-tags: 
-- type/structure
-- structure/bujo
-aliases: 
+tags:
+  - type/structure
+  - structure/bujo
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: BuJo Weekly
-template_version: "1.16"
+template_version: "1.18"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -33,37 +32,32 @@ template_version: "1.16"
 **Son**
 - 
 
+
 ---
 # Back Matter
-**Source**
-<!-- Always keep a link to the source- --> 
+
+**_Sources_**
+<!-- always keep a link to the [[source]] --> 
 - based_on::
 
-**References**
-<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
-- see::
+**_References_**
+<!-- see: [[permanent note]] because <reason> -->
+- see:: 
 
-**Terms**
-<!-- Links to definition pages. -->
-- 
+**_Context_**
+<!-- the scene at capture — see Subjective Context Principle. Optional but preferred. -->
+- scene:: 
 
-**Target**
-<!-- Link to project note or externaly published content. -->
-- 
+**_Terms_**
+<!-- optional link to [[literature note]] with term & definition. -->
+- term::
 
-**Tasks**
-<!-- What remains to be done with this note? --> 
-- 
+**_Targets_**
+<!-- optional link to [[project note]] or published content. -->
+- used_in::
 
-**Questions**
-<!-- What remains for you to consider? --> 
-- 
+**_Template Help_**
+<!-- link to external help pages on GitHub. -->
+- [GitHub - Obsidian-Templates for Zettelkasten.](https://github.com/groepl/Obsidian-Templates)
 
-**Template Help**
-<!-- Links to external help pages on GitHub. -->
-- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
-- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
-- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
-- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
-- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
-- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
+<!--  © 2022-2026 by Edmund Gröpl under CC BY-NC-SA 4.0 -->

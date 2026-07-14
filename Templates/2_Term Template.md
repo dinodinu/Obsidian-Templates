@@ -1,32 +1,36 @@
 ---
 tags:
-  - type/structure
-  - theme/objectives
-  - type/okr
+  - type/literature
+  - type/term
+  - theme/xyz
 aliases:
-lead: +++ Lead paragraph goes here +++
-okr: keyaction
-status: active_2024
+lead: +++ Term definition goes here +++
+source: +++ source undefined +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: OKR
-template_version: "1.22"
+template_type: Term
+template_version: "1.28"
 ---
-<!-- 
-okr: idea, wish, keyaction, keyresult, objective | annual
-template_type: OKR, Wish, Objective, Key Result, Key Action
-See "Template Help" below for using properties 
--->
 
 # {{Title}}
+<!--  Clear and descriptive title -->
 
-<!--  Main idea of my thoughts -->
+<!-- A supporting visual from front matter if available -->
 
-> [!Note]
+```dataviewjs 
+dv.paragraph(dv.current().visual);
+```
+<small>_Zoom: [[]] | Edit: [[]]_</small>
+
+<!-- Term definition and source from front matter goes here. Also used for Dataview glossary. -->
+
+> [!Definition]
 > `= this.lead`
+>  — `= this.source`
 
-<!-- Other content of my note  -->
+<!-- Additional term description if needed -->
+
 
 
 
